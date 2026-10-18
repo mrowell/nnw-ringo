@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ThemeIdentifier</key>
-	<string>de.jonastaedcke.themes.ringo-contrast</string>
+	<string>com.eldonrange.ringo-contrast</string>
 	<key>Name</key>
 	<string>ringo-contrast</string>
 	<key>CreatorHomePage</key>
-	<string>https://taedc.ke</string>
+	<string>https://github.com/mrowell</string>
 	<key>CreatorName</key>
-	<string>Jonas Taedcke</string>
+	<string>Marcus Rowell</string>
 	<key>Version</key>
 	<integer>3</integer>
 </dict>
