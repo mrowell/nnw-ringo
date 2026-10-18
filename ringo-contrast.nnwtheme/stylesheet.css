@@ -11,15 +11,15 @@
  * Do not edit directly, this file was auto-generated.
  */
 :root {
-  --color-canvas: #f7f6f4;
-  --color-text: #6f6f6e;
-  --color-heading: #4a4949;
-  --color-muted: #5f5f5f;
-  --color-dateline: #717170;
+  --color-canvas: #ffffff;
+  --color-text: #383837;
+  --color-heading: #252424;
+  --color-muted: #303030;
+  --color-dateline: #393938;
   --color-accent: #0066cc;
   --color-rule: #d8d2c6;
   --color-code-surface: #ebe7de;
-  --color-code-text: #5f5f5f;
+  --color-code-text: #303030;
   --font-display: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
   --font-code: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --number-text-step-small: 0.875;

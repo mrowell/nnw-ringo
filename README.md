@@ -1,12 +1,12 @@
 <!-- nnw-theme-identity:start -->
 
-# Ringo
+# ringo-contrast
 
 <!-- nnw-theme-identity:end -->
 
-![Ringo theme preview](screenshots/theme-preview.png)
+![ringo-contrast theme preview](screenshots/theme-preview.png)
 
-Ringo is a calm, focused reading theme for [NetNewsWire](https://netnewswire.com),
+`ringo-contrast` is a calm, focused reading theme for [NetNewsWire](https://netnewswire.com),
 inspired by the article design of [Reeder Classic](https://www.reederapp.com/classic/).
 
 ## Highlights

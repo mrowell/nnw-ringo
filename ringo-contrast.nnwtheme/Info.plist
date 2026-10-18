@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>ThemeIdentifier</key>
-	<string>de.jonastaedcke.themes.ringo</string>
+	<string>de.jonastaedcke.themes.ringo-contrast</string>
 	<key>Name</key>
-	<string>Ringo</string>
+	<string>ringo-contrast</string>
 	<key>CreatorHomePage</key>
 	<string>https://taedc.ke</string>
 	<key>CreatorName</key>
